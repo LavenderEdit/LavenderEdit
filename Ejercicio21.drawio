@@ -114,12 +114,17 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="410" as="sourcePoint" />
             <mxPoint x="440" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="10" />
+              <mxPoint x="810" y="10" />
+              <mxPoint x="810" y="430" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BYQ6nLd5p58p7Mj93vRJ-29" value="SERVIDOR DE BASE DE DATOS&lt;div&gt;1.- WINDOWS SERVER&lt;/div&gt;&lt;div&gt;2.- SQL SERVER EXPRESS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="620" width="194" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BYQ6nLd5p58p7Mj93vRJ-30" value="Servidor SMTP&lt;div&gt;(Correo)&lt;/div&gt;&lt;div&gt;GMAIL&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BYQ6nLd5p58p7Mj93vRJ-30" value="Servicio SMTP&lt;div&gt;(Correo)&lt;/div&gt;&lt;div&gt;GMAIL&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="717" y="80" width="87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BYQ6nLd5p58p7Mj93vRJ-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.626;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BYQ6nLd5p58p7Mj93vRJ-15" target="BYQ6nLd5p58p7Mj93vRJ-30">
