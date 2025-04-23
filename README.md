@@ -38,10 +38,10 @@
 ## 💻 IDEs & Herramientas | Tools & IDEs
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"/>
-  <img src="https://netbeans.apache.org/_/images/apache-netbeansx1024.png" height="40" alt="NetBeans Logo" />
-  <img src="https://img.icons8.com/fluency/48/visual-studio.png" height="40" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Apache_NetBeans-009639?style=for-the-badge&logo=apache-netbeans&logoColor=white" height="40" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" height="40" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="MySQL Workbench" />
 </div>
 
 ---
@@ -50,7 +50,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LavenderEdit&show_icons=true&theme=vue-dark&count_private=true&hide_border=false" width="380"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LavenderEdit&theme=vue-dark&hide_border=false" width="410"/><br/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=LavenderEdit&theme=vue-dark" width="404" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavenderEdit&layout=compact&theme=vue-dark&hide_border=false" width="400"/>
 </p>
 
