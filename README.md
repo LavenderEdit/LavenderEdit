@@ -1,5 +1,3 @@
-<!-- Readme bilingüe de Juan Santos Pimentel -->
-
 <h1 align="center">¡Hola, soy Juan! 👋</h1>
 <h3 align="center">Estudiante de Desarrollo de Software | Software Development Student</h3>
 
