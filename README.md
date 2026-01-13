@@ -9,9 +9,8 @@
 
 ## 📚 Sobre mí | About Me
 
-- 🎓 Estudiante del **quinto ciclo** de la carrera técnica de **Desarrollo de Software** en SENATI (Perú).  
+- 🎓 Egresado de la carrera técnica de **Desarrollo de Software** en SENATI (Perú).  
 - 💡 Apasionado por aprender nuevas tecnologías, resolver problemas complejos y crear soluciones útiles.  
-- 🧰 Actualmente trabajando en un sistema de facturación electrónica e inventario para una empresa de lubricantes.  
 - 🌱 Aprendiendo activamente sobre **Java**, **C#**, **Node.js**, y **Python**.  
 - 💬 Me encanta ayudar a otros y compartir lo que aprendo.  
 - 📫 Puedes contactarme: [gercermagden@gmail.com](mailto:gercermagden@gmail.com)  
@@ -48,11 +47,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LavenderEdit&show_icons=true&theme=vue-dark&count_private=true&hide_border=false" width="380"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=LavenderEdit&theme=vue-dark" width="404" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavenderEdit&layout=compact&theme=vue-dark&hide_border=false" width="400"/>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LavenderEdit&theme=darcula" alt="GitHub Streak" /></a>
 
 ---
 
