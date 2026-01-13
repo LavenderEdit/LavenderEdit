@@ -47,7 +47,9 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LavenderEdit&theme=darcula" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=LavenderEdit&theme=vue-dark" width="404" /><br/>
+</p>
 
 ---
 
