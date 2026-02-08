@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola, soy Juan! 👋</h1>
-<h3 align="center">Egresado de Desarrollo de Software | Software Development Student</h3>
+<h3 align="center">Desarrollador de Software | Software Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LavenderEdit&label=Profile%20views&color=0e75b6&style=flat" alt="LavenderEdit" />
