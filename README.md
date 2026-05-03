@@ -50,6 +50,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=LavenderEdit&theme=vue-dark" width="404" /><br/>
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LavenderEdit&theme=vue" width="700"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LavenderEdit&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
